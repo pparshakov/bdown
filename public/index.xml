@@ -22,6 +22,16 @@ I am associate professor at HSE University (Russia).</description>
     </item>
     
     <item>
+      <title>About</title>
+      <link>/test/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/test/</guid>
+      <description>This is my blog on sports, economics and some corporate finance.
+I am associate professor at HSE University (Russia).</description>
+    </item>
+    
+    <item>
       <title>Test post</title>
       <link>/2018/10/10/test-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
