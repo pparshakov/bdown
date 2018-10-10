@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Stories of unsupervised learning"
+title = "Learning unsupervised"
 theme = "hyde"
 googleAnalytics = ""
 disqusShortname = ""
@@ -10,17 +10,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
+    name = "About me"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    name = "Academic page"
+    url = "https://www.hse.ru/en/staff/parshakov"
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    name = "Facebook"
+    url = "https://www.facebook.com/parshakov"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Random posts on economics, sports and data"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
