@@ -3,7 +3,7 @@ title: "About"
 date: '2018-10-10'
 ---
 
-<img src="me.png" width="70%">
+<img src="me.jpg" width="70%">
 
 
 This is my blog on sports, economics and some corporate finance. 
