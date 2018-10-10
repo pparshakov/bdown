@@ -1,0 +1,20 @@
+---
+title: Test post
+author: Petr Parshakov
+date: '2018-10-10'
+slug: test-post
+categories:
+  - r
+tags:
+  - r
+Categories:
+  - Development
+  - GoLang
+Description: ''
+Tags:
+  - Development
+  - golang
+menu: main
+---
+
+Abyr! Abyr! Abyrvalg!
