@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 50em) {
   html {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 @media (min-width: 60em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
