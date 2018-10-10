@@ -3,7 +3,8 @@ title: "About"
 date: '2018-10-10'
 ---
 
-![me](me.jpg){ width=50% }
+<img src="me.png" width="70%">
+
 
 This is my blog on sports, economics and some corporate finance. 
 
