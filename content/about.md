@@ -1,9 +1,9 @@
 ---
 title: "About"
-date: "2018-10-10"
+date: '2018-10-10'
 ---
 
-![me](me.jpg)
+![me](me.jpg){ width=50% }
 
 This is my blog on sports, economics and some corporate finance. 
 
