@@ -16,7 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Academic page"
     url = "https://www.hse.ru/en/staff/parshakov"
 [[menu.main]]
-    name = "Facebook"
+    name = "Facebook" 
     url = "https://www.facebook.com/parshakov"
 
 [params]
