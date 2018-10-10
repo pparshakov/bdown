@@ -34,14 +34,14 @@
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
-@media (min-width: 70em) {
+@media (min-width: 60em) {
   html {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
-@media (min-width: 80em) {
+@media (min-width: 70em) {
   html {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
