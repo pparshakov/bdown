@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Learning unsupervised"
+title = "Petr Parshakov"
 theme = "hyde"
 googleAnalytics = ""
 disqusShortname = ""
@@ -20,7 +20,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://www.facebook.com/parshakov"
 
 [params]
-    description = "Random posts on economics, sports and data"
+    description = "Learning unsupervised: posts on economics, sports and data"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
